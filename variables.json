@@ -1,7 +1,7 @@
 {
   "name": "matomo",
   "trademark": "Matomo",
-  "installpath": "/data/wwwroot/matomo",
+  "installpath": "/data/apps/matomo",
   "compose_file": "docker-compose.yml",
   "fork_url": "https://matomo.org/faq/on-premise/installing-matomo/",
   "env_file": ".env_all",
